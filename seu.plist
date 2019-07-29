@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.example.com/image.57×57.png</string>
+                    <string>https://static.cpdaily.com/ldy/hit/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.example.com/image.512×512.png</string>
+                    <string>https://static.cpdaily.com/ldy/hit/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>app_name</string>
+				<string>东大OA</string>
 			</dict>
 		</dict>
 	</array>
